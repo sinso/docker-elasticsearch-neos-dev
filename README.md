@@ -3,7 +3,7 @@
 For docker-compose:
 ```
 elasticsearch:
-  image: sinso/elasticsearch-neos:latest
+  image: sinso/elasticsearch-neos-dev:latest
   ports:
     - 9200:9200
   volumes:
