@@ -10,3 +10,11 @@ elasticsearch:
     - .docker/elasticsearch:/elasticsearch
 
 ```
+
+
+localhost:9200/_plugin/head/
+localhost:9200/_plugin/kopf/
+localhost:9200/_plugin/bigdesk/
+localhost:9200/_plugin/HQ/
+
+
